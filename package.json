@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/bclayton-usgs/nshmp-web-utils#readme",
   "dependencies": {
+    "bootstrap": "^3.4.1",
     "d3": "^5.9.1",
     "jquery": "^3.3.1"
   }
