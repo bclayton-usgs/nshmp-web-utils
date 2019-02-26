@@ -1,0 +1,24 @@
+{
+  "name": "@nshmp/nshmp-web-utils",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bclayton-usgs/nshmp-web-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bclayton-usgs/nshmp-web-utils/issues"
+  },
+  "homepage": "https://github.com/bclayton-usgs/nshmp-web-utils#readme",
+  "dependencies": {
+    "d3": "^5.9.1",
+    "jquery": "^3.3.1"
+  }
+}
