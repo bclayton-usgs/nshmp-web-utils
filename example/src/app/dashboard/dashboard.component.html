@@ -1,0 +1,8 @@
+<div class="grid-row dashboard">
+  <mat-card
+      class="grid-offset-3 grid-col-6 pointer"
+      *ngFor="let nav of navigationList"
+      [routerLink]="nav.routerLink">
+    <mat-card-title>{{ nav.display }}</mat-card-title>
+  </mat-card>
+</div>
