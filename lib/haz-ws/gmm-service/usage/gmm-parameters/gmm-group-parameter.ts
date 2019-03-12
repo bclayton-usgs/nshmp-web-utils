@@ -5,7 +5,7 @@
 export interface GmmGroupParameter {
   label: string;
   info: string;
-  data: GmmGroupValue[];
+  values: GmmGroupValue[];
 }
 
 /**
