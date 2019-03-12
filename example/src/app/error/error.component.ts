@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
-import { NshmpError } from '../../../..';
+import { NshmpError } from '@nshmp/nshmp-web-utils';
 
 @Component({
   selector: 'app-error',
