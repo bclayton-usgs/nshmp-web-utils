@@ -9,6 +9,7 @@
     "cp-calc": "cp -r lib/calc dist/.",
     "cp-error": "cp -r lib/error dist/.",
     "cat-index": "printf '\n\n' >> dist/index.d.ts && cat lib/index.d.ts >> dist/index.d.ts",
+    "publish": "npm run build && npm publish --access=public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
