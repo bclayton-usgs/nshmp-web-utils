@@ -25,11 +25,11 @@
   "homepage": "https://github.com/bclayton-usgs/nshmp-web-utils#readme",
   "dependencies": {
     "bootstrap": "^3.4.1",
-    "d3": "^5.9.1",
-    "jquery": "^3.3.1"
+    "d3": "^5.9.2",
+    "jquery": "^3.4.1"
   },
   "devDependencies": {
-    "tslint": "^5.13.1",
-    "typescript": "^3.3.3333"
+    "tslint": "^5.16.0",
+    "typescript": "^3.4.5"
   }
 }
