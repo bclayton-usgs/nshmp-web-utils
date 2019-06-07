@@ -5,5 +5,5 @@ export interface HazardImportResponse {
   status: string;
   date: string;
   request: HazardImportRequestData;
-  respone: HazardCurves;
+  response: HazardCurves;
 }
