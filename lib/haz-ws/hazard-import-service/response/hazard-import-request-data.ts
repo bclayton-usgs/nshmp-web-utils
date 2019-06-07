@@ -1,4 +1,4 @@
 
-export interface HazardSocketRequestData {
+export interface HazardImportRequestData {
   url: string;
 }

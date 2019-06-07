@@ -1,7 +1,7 @@
-import { HazardSocketRequestData } from './hazard-import-request-data';
+import { HazardImportRequestData } from './hazard-import-request-data';
 
-export interface HazardSocketResponse {
+export interface HazardImporttResponse {
   status: string;
   date: string;
-  request: HazardSocketRequestData;
+  request: HazardImportRequestData;
 }
