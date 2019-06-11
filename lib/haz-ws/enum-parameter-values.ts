@@ -6,5 +6,5 @@ export interface EnumParameterValues {
   id: number;
   value: string;
   display: string;
-  displayrder: number;
+  displayorder: number;
 }
