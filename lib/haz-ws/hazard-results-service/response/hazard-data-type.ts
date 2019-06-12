@@ -1,6 +1,6 @@
 import { EnumParameterValues } from '../../../haz-ws/enum-parameter-values';
 
 export interface HazardDataType {
-  type: string;
+  type: EnumParameterValues;
   sourceType: EnumParameterValues;
 }
