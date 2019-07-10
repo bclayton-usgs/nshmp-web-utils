@@ -9,4 +9,4 @@ export * from './site';
 export * from './gmm-service/usage';
 
 /* Hazard services */
-export * from './hazard-results-service/response';
+export * from './hazard-results-metadata-service/response';
