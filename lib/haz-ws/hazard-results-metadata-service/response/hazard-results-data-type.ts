@@ -1,6 +1,6 @@
 import { EnumParameterValues } from '../../enum-parameter-values';
 
-export interface DataType {
+export interface HazardResultsDataType {
   imt: EnumParameterValues;
   sourceType: EnumParameterValues;
 }
