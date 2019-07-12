@@ -1,8 +1,7 @@
 import { HazardResultsDataType } from './hazard-results-data-type';
 
 export interface HazardResultsListing {
-  bucket: string;
   dataType: HazardResultsDataType;
+  file: string;
   path: string;
-  user: string;
 }

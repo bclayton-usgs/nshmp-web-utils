@@ -1,6 +1,6 @@
-import { HazardResultsListing } from './hazard-results-listing';
+import { HazardResults } from './hazard-results';
 
 export interface HazardResultsResult {
   users: string[];
-  listings: HazardResultsListing[];
+  hazardResults: HazardResults[];
 }
